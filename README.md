@@ -2,10 +2,6 @@
 
 A full-stack machine learning web application designed to predict used car market values based on specifications like mileage, year, make, model, and condition.
 
-Live Demo: https://carvalue-predictor-demo.com  
-Frontend Repo: https://github.com/your-username/car-prediction-frontend  
-Backend Repo: https://github.com/your-username/car-prediction-backend  
-
 ---
 
 ## Table of Contents
