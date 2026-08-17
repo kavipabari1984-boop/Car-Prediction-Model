@@ -53,26 +53,26 @@ To provide an interactive tool where users input car attributes (mileage, year, 
 ## Tech Stack
 
 ### Frontend
-- React
-- HTML5
-- Tailwind CSS
-- Chart.js / Axios
+•	React
+•	HTML5
+•	Tailwind CSS
+•	Chart.js / Axios
 
 ### Backend
-- Python + Flask / FastAPI
-- REST API
-- Joblib / Scikit-Learn Model Runner
-- Pandas & NumPy
+•	Python + Flask / FastAPI
+•	REST API
+•	Joblib / Scikit-Learn Model Runner
+•	Pandas & NumPy
 
 ### Database
-- PostgreSQL / MongoDB
-- SQLAlchemy / Mongoose
+•	PostgreSQL / MongoDB
+•	SQLAlchemy / Mongoose
 
 ### Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebooks
-- Postman
+•	Git & GitHub
+•	VS Code
+•	Jupyter Notebooks
+•	Postman
 
 ---
 
