@@ -52,38 +52,47 @@ To provide an interactive tool where users input car attributes (mileage, year, 
 
 ## Tech Stack
 
-### Frontend
-•	React
-•	HTML5
-•	Tailwind CSS
-•	Chart.js / Axios
+### Core Language 
 
-### Backend
-•	Python + Flask / FastAPI
-•	REST API
-•	Joblib / Scikit-Learn Model Runner
-•	Pandas & NumPy
+python 3
 
-### Database
-•	PostgreSQL / MongoDB
-•	SQLAlchemy / Mongoose
+### Machine Learning & Data Science Libraries 
 
-### Tools
-•	Git & GitHub
-•	VS Code
-•	Jupyter Notebooks
-•	Postman
+scikit-learn 1.4.2
+pandas
+numpy
+matplotlib
+joblib
+
+### Specific ML Components (from scikit-learn)
+
+gradient boosting regressor
+ordinal encoder
+column transformer
+selectpercentile
+
+### Web Framework
+
+stream lit
+
+### Development Environment
+
+jupyter notebook
+venv (virtual environment)
+
+### Storage & Infrastructure
+
+azurite
+queue storage
+
+### Data 
+
+csv files
+kaggle / marketcheck dataset 
 
 ---
 
-## Architecture
-
-Client (Frontend - React)  
-↓  
-Server (REST API - Python Flask/FastAPI + ML Model)  
-↓  
-Database (PostgreSQL / MongoDB)  
-
+ 
 ### Folder Structure
 
 ```text
